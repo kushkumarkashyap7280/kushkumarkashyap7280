@@ -50,7 +50,7 @@
 
 
 ## 🎯 Current Focus
-- 🔍 DSA: Arrays and Binary Search
+- [🔍 DSA](https://github.com/kushkumarkashyap7280/DSA.git)
 - 🌟 Mastering MERN Stack
 - 📚 System Design fundamentals
 - 🤖 Building AI-powered developer tools
