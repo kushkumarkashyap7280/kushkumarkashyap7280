@@ -127,7 +127,7 @@
 
 ## 🚀 **Featured Projects**
 
-### 💻 **ContentSaver - Code Management Tool**
+### 💻 **MY Todo - Code Management Tool**
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -135,9 +135,9 @@
   <img src="https://img.shields.io/badge/LocalStorage-FF6B6B?style=for-the-badge" alt="LocalStorage" />
 </div>
 
-> **Features:** Create, edit, share, and copy code snippets with LocalStorage implementation and clean UI
+> **Features:** Create, edit and mark as complete   with LocalStorage implementation and clean UI
 >
-> **🔗 [Live Demo](https://mycodessave.netlify.app/) | 📂 [Repository](https://github.com/kushkumarkashyap7280/ContentSaver)**
+> **🔗 [Live Demo](https://kushs-todo-react.vercel.app/) | 📂 [Repository](https://github.com/kushkumarkashyap7280/ContentSaver)**
 
 ### 🌐 **Call of Coders - Portfolio Website**
 
