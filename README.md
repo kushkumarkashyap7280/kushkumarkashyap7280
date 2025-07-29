@@ -47,7 +47,6 @@
 
 ### 🎓 **Education & Goals**
 
-- 🎯 **Aspiring SDE** at **MAANG/FAANG** companies
 - 📚 **B.Voc in Software Development** at Ramanujan College, South Campus, Delhi
 - 👨‍💻 **Full Stack Developer** in the making
 - 📺 **Content Creator** at "Call of Coders" YouTube channel
@@ -127,7 +126,7 @@
 
 ## 🚀 **Featured Projects**
 
-### 💻 **MY Todo - Code Management Tool**
+### 💻 **MY Todo **
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
