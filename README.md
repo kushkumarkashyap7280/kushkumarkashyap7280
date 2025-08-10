@@ -12,6 +12,17 @@
 
 ---
 
+## 🧭 **Table of Contents**
+
+- [📊 GitHub Statistics & Achievements](#-github-statistics--achievements)
+- [🏆 LeetCode Performance](#-leetcode-performance)
+- [🎯 About Me](#-about-me)
+- [🚀 Featured Projects](#-featured-projects)
+- [🛠️ Tech Stack & Skills](#️-tech-stack--skills)
+- [📚 Well-Documented, Day‑wise Learning Repositories](#-well-documented-daywise-learning-repositories)
+- [🤝 Let's Connect & Collaborate](#-lets-connect--collaborate)
+- [📧 Contact Information](#-contact-information)
+
 ## 📊 **GitHub Statistics & Achievements**
 
 <div align="center">
@@ -30,6 +41,20 @@
 </div>
 
 ---
+
+## 🏅 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kushkumarkashyap7280&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushkumarkashyap7280&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ## 🏆 **LeetCode Performance**
 
@@ -61,6 +86,28 @@
 - 🤝 **Collaborating** on open-source projects
 
 ---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+  
+  <a href="https://github.com/kushkumarkashyap7280/DSA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushkumarkashyap7280&repo=DSA&theme=radical&hide_border=true" alt="DSA" />
+  </a>
+  <a href="https://github.com/kushkumarkashyap7280/REACT-JS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushkumarkashyap7280&repo=REACT-JS&theme=radical&hide_border=true" alt="REACT-JS" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/kushkumarkashyap7280/MERN-BACKEND">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushkumarkashyap7280&repo=MERN-BACKEND&theme=radical&hide_border=true" alt="MERN-BACKEND" />
+  </a>
+  <a href="https://github.com/kushkumarkashyap7280/MY-TODO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushkumarkashyap7280&repo=MY-TODO&theme=radical&hide_border=true" alt="MY-TODO" />
+  </a>
+
+</div>
 
 ## 🛠️ **Tech Stack & Skills**
 
@@ -112,105 +159,64 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </div>
 
-### 📚 **Learning & Future Goals**
+## 📚 **Well-Documented, Day‑wise Learning Repositories**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+
+Explore my study and project repositories, organized for day-wise or progressive learning. Each repo includes explanations, examples, and practical tasks.
+
+
+<table>
+<thead>
+<tr>
+<th>Repo</th>
+<th>Focus</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/kushkumarkashyap7280/DSA">DSA</a></td>
+<td>Day-wise DSA practice with explanations and notes</td>
+<td><img src="https://img.shields.io/github/stars/kushkumarkashyap7280/DSA?style=social" alt="DSA stars"/> <img src="https://img.shields.io/github/forks/kushkumarkashyap7280/DSA?style=social" alt="DSA forks"/> <img src="https://img.shields.io/github/last-commit/kushkumarkashyap7280/DSA?color=brightgreen" alt="DSA last commit"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/kushkumarkashyap7280/JAVASCRIPT">JavaScript</a></td>
+<td>Core JS concepts, exercises, and progressive learning</td>
+<td><img src="https://img.shields.io/github/stars/kushkumarkashyap7280/JAVASCRIPT?style=social" alt="JS stars"/> <img src="https://img.shields.io/github/forks/kushkumarkashyap7280/JAVASCRIPT?style=social" alt="JS forks"/> <img src="https://img.shields.io/github/last-commit/kushkumarkashyap7280/JAVASCRIPT?color=brightgreen" alt="JS last commit"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/kushkumarkashyap7280/REACT-JS">React JS</a></td>
+<td>Component-based learning with projects</td>
+<td><img src="https://img.shields.io/github/stars/kushkumarkashyap7280/REACT-JS?style=social" alt="React stars"/> <img src="https://img.shields.io/github/forks/kushkumarkashyap7280/REACT-JS?style=social" alt="React forks"/> <img src="https://img.shields.io/github/last-commit/kushkumarkashyap7280/REACT-JS?color=brightgreen" alt="React last commit"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/kushkumarkashyap7280/MY-TODO">My ToDo</a></td>
+<td>Step-by-step feature building in a ToDo app</td>
+<td><img src="https://img.shields.io/github/stars/kushkumarkashyap7280/MY-TODO?style=social" alt="ToDo stars"/> <img src="https://img.shields.io/github/forks/kushkumarkashyap7280/MY-TODO?style=social" alt="ToDo forks"/> <img src="https://img.shields.io/github/last-commit/kushkumarkashyap7280/MY-TODO?color=brightgreen" alt="ToDo last commit"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/kushkumarkashyap7280/TYPESCRIPT">TypeScript</a></td>
+<td>TS fundamentals with incremental examples</td>
+<td><img src="https://img.shields.io/github/stars/kushkumarkashyap7280/TYPESCRIPT?style=social" alt="TS stars"/> <img src="https://img.shields.io/github/forks/kushkumarkashyap7280/TYPESCRIPT?style=social" alt="TS forks"/> <img src="https://img.shields.io/github/last-commit/kushkumarkashyap7280/TYPESCRIPT?color=brightgreen" alt="TS last commit"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/kushkumarkashyap7280/MERN-BACKEND">MERN Backend</a></td>
+<td>Backend APIs and server-side concepts</td>
+<td><img src="https://img.shields.io/github/stars/kushkumarkashyap7280/MERN-BACKEND?style=social" alt="MERN stars"/> <img src="https://img.shields.io/github/forks/kushkumarkashyap7280/MERN-BACKEND?style=social" alt="MERN forks"/> <img src="https://img.shields.io/github/last-commit/kushkumarkashyap7280/MERN-BACKEND?color=brightgreen" alt="MERN last commit"/></td>
+</tr>
+</tbody>
+</table>
+
+<details>
+  <summary><b>How to navigate the day-wise content</b></summary>
+  
+  - Look for folders like <code>Day-01</code>, <code>Day-02</code>, etc.
+  - Each day typically includes: topic notes, code examples, and small exercises.
+  - Start from the README in each repo for an overview and index.
+</details>
+
 </div>
-
----
-
-## 🚀 **Featured Projects**
-
-### 💻 **MY Todo **
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/LocalStorage-FF6B6B?style=for-the-badge" alt="LocalStorage" />
-</div>
-
-> **Features:** Create, edit and mark as complete   with LocalStorage implementation and clean UI
->
-> **🔗 [Live Demo](https://kushs-todo-react.vercel.app/) | 📂 [Repository](https://github.com/kushkumarkashyap7280/ContentSaver)**
-
-### 🌐 **Call of Coders - Portfolio Website**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</div>
-
-> **Features:** Modern portfolio built with React, Redux, and Tailwind CSS with dynamic content management
->
-> **🔗 [Live Demo](https://callofcoders.netlify.app/) | 📂 [Repository](https://github.com/kushkumarkashyap7280/call-of-coders)**
-
-### 🧠 **DSA Practice Repository**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
-
-> **Features:** Comprehensive collection of Data Structures and Algorithms solutions
->
-> **📂 [Repository](https://github.com/kushkumarkashyap7280/DSA.git)**
-
----
-
-## 🎯 **Current Focus & Goals**
-
-### 🚀 **Short-term Goals (3-6 months)**
-
-- [ ] **Master MERN Stack** - Complete advanced projects
-- [ ] **System Design** - Learn scalable architecture patterns
-- [ ] **DSA Mastery** - Achieve 500+ LeetCode problems
-- [ ] **Open Source** - Contribute to meaningful projects
-
-### 🌟 **Long-term Goals (6-12 months)**
-
-- [ ] **AI/ML Integration** - Build AI-powered developer tools
-- [ ] **Cloud Architecture** - Master AWS/Azure services
-- [ ] **Microservices** - Design distributed systems
-- [ ] **Technical Leadership** - Mentor junior developers
-
-### 📚 **Learning Path**
-
-```
-Frontend → Backend → Database → DevOps → System Design → AI/ML
-    ↓         ↓         ↓         ↓         ↓         ↓
-  React    Node.js   MongoDB   Docker   Scalability  TensorFlow
-  Redux    Express   SQL      K8s      Architecture  OpenAI API
-  Next.js  REST API  Redis    AWS      Patterns      ML Models
-```
-
----
-
-## 📈 **Achievements & Milestones**
-
-### 🏆 **Coding Achievements**
-
-- ✅ **LeetCode:** 140+ problems solved
-- ✅ **GitHub:** 100+ contributions
-- ✅ **Projects:** 10+ completed applications
-
-
-### 📊 **Skills Progress**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge" alt="JavaScript Expert" />
-  <img src="https://img.shields.io/badge/React-Advanced-blue?style=for-the-badge" alt="React Advanced" />
-  <img src="https://img.shields.io/badge/DSA-Intermediate-orange?style=for-the-badge" alt="DSA Intermediate" />
-  <img src="https://img.shields.io/badge/Node.js-Learning-green?style=for-the-badge" alt="Node.js Learning" />
-</div>
-
----
 
 ## 🤝 **Let's Connect & Collaborate**
 
