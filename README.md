@@ -1,4 +1,4 @@
-# 🚀 Welcome to My GitHub Profile! 👋
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kush+Kumar!;Full+Stack+Developer;DSA+Enthusiast;Content+Creator" alt="Typing SVG" />
