@@ -1,27 +1,39 @@
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kush+Kumar!;Full+Stack+Developer;DSA+Enthusiast;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+I'm+Kush+Kumar;Full+Stack+Developer+%26+DSA+Expert;Crafting+Digital+Experiences;Building+the+Future+with+Code" alt="Typing SVG" />
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-kush--kumar.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://kush-kumar.vercel.app/)
+  [![Status](https://img.shields.io/badge/Status-Available_for_Opportunities-2ea44f?style=for-the-badge&logo=mailgun&logoColor=white)](mailto:kushkumarkashyap7280@gmail.com)
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushkumarkashyap7280&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-blue" alt="Location" />
+  <a href="https://www.linkedin.com/in/kush-kumar-b10020302/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@callofcoders"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://github.com/kushkumarkashyap7280"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/people/Call-of-Coders/61566491841146/?sk=about"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/callofcoders/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://leetcode.com/kushkumarkashyap7280"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </div>
 
 ---
 
-## 🧭 **Table of Contents**
+## � **About Me & What I Do**
 
-- [📊 GitHub Statistics & Achievements](#-github-statistics--achievements)
+> _"Code is like humor. When you have to explain it, it's bad." – Cory House_
+
+I'm a passionate **Full Stack Developer** and **DSA Enthusiast** from Delhi, India, currently pursuing **B.Voc in Software Development** at Ramanujan College. I specialize in building scalable web applications and solving complex algorithmic problems.
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kushkumarkashyap7280&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+## 📌 **Quick Links**
+
+- [📊 GitHub Statistics](#-github-statistics)
 - [🏆 LeetCode Performance](#-leetcode-performance)
-- [🎯 About Me](#-about-me)
 - [🚀 Featured Projects](#-featured-projects)
 - [🛠️ Tech Stack & Skills](#️-tech-stack--skills)
-- [📚 Well-Documented, Day‑wise Learning Repositories](#-well-documented-daywise-learning-repositories)
-- [🤝 Let's Connect & Collaborate](#-lets-connect--collaborate)
-- [📧 Contact Information](#-contact-information)
+- [📚 Learning Repositories](#-learning-repositories)
+- [🤝 Connect & Collaborate](#-connect--collaborate)
 
 ## 📊 **GitHub Statistics & Achievements**
 
@@ -73,21 +85,60 @@
 ### 🎓 **Education & Goals**
 
 - 📚 **B.Voc in Software Development** at Ramanujan College, South Campus, Delhi
-- 👨‍💻 **Full Stack Developer** in the making
+- 👨‍💻 **Full Stack Developer** specializing in MERN stack
 - 📺 **Content Creator** at "Call of Coders" YouTube channel
 - 🚀 **Passionate** about building scalable applications
+- 🏆 **Committed** to continuous learning and growth
 
 ### 🌟 **What I Do**
 
-- 💻 **Full Stack Development** with modern technologies
-- 🧠 **Problem Solving** through DSA and competitive programming
-- 📚 **Learning** System Design and advanced concepts
-- 🎥 **Creating** educational content for developers
-- 🤝 **Collaborating** on open-source projects
+- 💻 **Develop** full-stack web applications with React, Node.js, and MongoDB
+- 🧠 **Solve** complex algorithmic challenges on LeetCode
+- 📚 **Learn** advanced System Design and Architecture principles
+- 🎥 **Create** educational content for aspiring developers
+- 🤝 **Collaborate** on open-source projects to contribute to developer community
 
 ---
 
-##  **Featured Projects**
+## **Featured Projects**
+
+<div align="center">
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Portfolio Website</b></td>
+<td>My professional developer portfolio showcasing skills and projects</td>
+<td>Next.js, TailwindCSS, Framer Motion</td>
+<td><a href="https://kush-kumar.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a></td>
+</tr>
+<tr>
+<td><b>Call of Coders</b></td>
+<td>Educational platform for teaching programming & DSA concepts</td>
+<td>React, Express, MongoDB, Tailwind</td>
+<td><a href="https://www.youtube.com/@callofcoders"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a></td>
+</tr>
+<tr>
+<td><b>MongoDB Learning</b></td>
+<td>Comprehensive MongoDB tutorial with examples and best practices</td>
+<td>MongoDB, Node.js, Express</td>
+<td><a href="https://github.com/kushkumarkashyap7280/MONGODB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License" /></td>
+</tr>
+</tbody>
+</table>
+
+<div style="margin-top: 20px;">
+  <a href="https://github.com/kushkumarkashyap7280?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-61DAFB?style=for-the-badge&logo=github&logoColor=black" alt="View All Projects" /></a>
+</div>
+</div>
+
 <div align="center">
   
   <a href="https://github.com/kushkumarkashyap7280/DSA">
@@ -108,8 +159,8 @@
   <a href="https://github.com/kushkumarkashyap7280/MERN-BACKEND">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushkumarkashyap7280&repo=MERN-BACKEND&theme=radical&hide_border=true" alt="MERN-BACKEND" />
   </a>
-  <a href="https://github.com/kushkumarkashyap7280/MY-TODO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushkumarkashyap7280&repo=MY-TODO&theme=radical&hide_border=true" alt="MY-TODO" />
+  <a href="https://github.com/kushkumarkashyap7280/MONGODB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushkumarkashyap7280&repo=MONGODB&theme=radical&hide_border=true" alt="MONGODB" />
   </a>
 
 </div>
@@ -167,7 +218,6 @@
 
 Explore my study and project repositories, organized for day-wise or progressive learning. Each repo includes explanations, examples, and practical tasks.
 
-
 <table>
 <thead>
 <tr>
@@ -207,6 +257,11 @@ Explore my study and project repositories, organized for day-wise or progressive
 <td>Backend APIs and server-side concepts</td>
 <td><img src="https://img.shields.io/github/stars/kushkumarkashyap7280/MERN-BACKEND?style=social" alt="MERN stars"/> <img src="https://img.shields.io/github/forks/kushkumarkashyap7280/MERN-BACKEND?style=social" alt="MERN forks"/> <img src="https://img.shields.io/github/last-commit/kushkumarkashyap7280/MERN-BACKEND?color=brightgreen" alt="MERN last commit"/></td>
 </tr>
+<tr>
+<td><a href="https://github.com/kushkumarkashyap7280/MONGODB">MongoDB</a></td>
+<td>MongoDB fundamentals, queries, and advanced operations</td>
+<td><img src="https://img.shields.io/github/stars/kushkumarkashyap7280/MONGODB?style=social" alt="MongoDB stars"/> <img src="https://img.shields.io/github/forks/kushkumarkashyap7280/MONGODB?style=social" alt="MongoDB forks"/> <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License"/> <img src="https://img.shields.io/github/last-commit/kushkumarkashyap7280/MONGODB?color=brightgreen" alt="MongoDB last commit"/></td>
+</tr>
 </tbody>
 </table>
 
@@ -220,42 +275,44 @@ Explore my study and project repositories, organized for day-wise or progressive
 
 </div>
 
-## 🤝 **Let's Connect & Collaborate**
+## 🤝 **Connect & Collaborate**
 
 <div align="center">
-  <a href="https://youtube.com/@callofcoders">
-    <img src="https://img.shields.io/badge/YouTube-Call%20of%20Coders-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://www.youtube.com/@callofcoders">
+    <img src="https://img.shields.io/badge/YouTube-Call_of_Coders-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.linkedin.com/in/kush-kumar-b10020302/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kush_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://callofcoders.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
+  <a href="https://www.facebook.com/people/Call-of-Coders/61566491841146/?sk=about">
+    <img src="https://img.shields.io/badge/Facebook-Call_of_Coders-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/callofcoders/">
+    <img src="https://img.shields.io/badge/Instagram-@callofcoders-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/kushkumarkashyap7280">
+    <img src="https://img.shields.io/badge/LeetCode-kushkumarkashyap7280-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="mailto:kushkumarkashyap7280@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-### 📧 **Contact Information**
+<div align="center" style="margin-top: 30px;">
+  <h3>� Let's build something amazing together!</h3>
+  <p>I'm always open to interesting projects and collaborations. Feel free to reach out!</p>
+</div>
 
-- **📧 Email:** kushkumarkashyap7280@gmail.com
-- **🌐 Portfolio:** [callofcoders.netlify.app](https://callofcoders.netlify.app/)
-- **📺 YouTube:** [@callofcoders](https://youtube.com/@callofcoders)
-- **💼 LinkedIn:** [Kush Kumar](https://www.linkedin.com/in/kush-kumar-b10020302/)
-
-
-
-<div align="center">
+<div align="center" style="margin-top: 40px;">
   
-  ### ⭐ **If you like what I do, consider giving a star to my repositories!**
+  ### ⭐ **If you find my work valuable, consider giving a star!**
   
   <img src="https://img.shields.io/github/stars/kushkumarkashyap7280?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/kushkumarkashyap7280?style=social" alt="GitHub Followers" />
   
   ---
   
-  **Made with ❤️ by [Kush Kumar](https://github.com/kushkumarkashyap7280)**
+  <h4>Made with ❤️ and ☕ by <a href="https://kush-kumar.vercel.app/">Kush Kumar</a></h4>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=kushkumarkashyap7280&style=flat-square&color=blue)
 </div>
