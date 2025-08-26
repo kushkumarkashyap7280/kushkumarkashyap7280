@@ -108,7 +108,7 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** from Delhi, Ind
         <h3 align="center">Portfolio Website</h3>
         <p align="center">
           <a href="https://kush-kumar.vercel.app/" target="_blank">
-            <img src="https://cdn.dribbble.com/userupload/5825896/file/original-4136b871d3aab4f32f7b0d56bdceabfb.gif" width="100%" alt="Portfolio Website"/>
+            <img src="https://raw.githubusercontent.com/kushkumarkashyap7280/assets/main/portfolio-animation.gif" width="100%" alt="Portfolio Website"/>
           </a>
         </p>
         <p align="center">
@@ -122,7 +122,7 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** from Delhi, Ind
         <h3 align="center">Call of Coders</h3>
         <p align="center">
           <a href="https://www.youtube.com/@callofcoders" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" width="100%" alt="Call of Coders"/>
+            <img src="https://raw.githubusercontent.com/kushkumarkashyap7280/assets/main/coding-animation.gif" width="100%" alt="Call of Coders"/>
           </a>
         </p>
         <p align="center">
@@ -138,7 +138,7 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** from Delhi, Ind
         <h3 align="center">MongoDB Learning Repository</h3>
         <p align="center">
           <a href="https://github.com/kushkumarkashyap7280/MONGODB" target="_blank">
-            <img src="https://cdn.dribbble.com/users/2401141/screenshots/15483577/media/e2804bdc236a8952a8fa4c373da72f1f.gif" width="100%" alt="MongoDB Repo"/>
+            <img src="https://raw.githubusercontent.com/kushkumarkashyap7280/assets/main/mongodb-bg.gif" width="100%" alt="MongoDB Repo"/>
           </a>
         </p>
         <p align="center">
@@ -153,7 +153,7 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** from Delhi, Ind
         <h3 align="center">Full Stack MERN Backend</h3>
         <p align="center">
           <a href="https://github.com/kushkumarkashyap7280/MERN-BACKEND" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="100%" alt="MERN Backend"/>
+            <img src="https://raw.githubusercontent.com/kushkumarkashyap7280/assets/main/mern-backend.gif" width="100%" alt="MERN Backend"/>
           </a>
         </p>
         <p align="center">
@@ -185,7 +185,7 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** from Delhi, Ind
         <h3 align="center">Data Structures & Algorithms</h3>
         <p align="center">
           <a href="https://github.com/kushkumarkashyap7280/DSA" target="_blank">
-            <img src="https://repository-images.githubusercontent.com/160049759/c7b93380-ad05-11ea-9ec9-b5bf777ecfd4" width="100%" height="140px" style="object-fit: cover;" alt="DSA Repository"/>
+            <img src="https://raw.githubusercontent.com/kushkumarkashyap7280/assets/main/dsa-algo.gif" width="100%" height="140px" style="object-fit: cover;" alt="DSA Repository"/>
           </a>
         </p>
         <p>Day-wise DSA practice with explanations, code examples, and interview-focused problems.</p>
@@ -198,7 +198,7 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** from Delhi, Ind
         <h3 align="center">JavaScript Mastery</h3>
         <p align="center">
           <a href="https://github.com/kushkumarkashyap7280/JAVASCRIPT" target="_blank">
-            <img src="https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png" width="100%" height="140px" style="object-fit: cover;" alt="JavaScript Repository"/>
+            <img src="https://raw.githubusercontent.com/kushkumarkashyap7280/assets/main/javascript-bg.gif" width="100%" height="140px" style="object-fit: cover;" alt="JavaScript Repository"/>
           </a>
         </p>
         <p>Core JS concepts, advanced topics, and practical exercises with detailed examples.</p>
@@ -211,7 +211,7 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** from Delhi, Ind
         <h3 align="center">MongoDB Essentials</h3>
         <p align="center">
           <a href="https://github.com/kushkumarkashyap7280/MONGODB" target="_blank">
-            <img src="https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png" width="100%" height="140px" style="object-fit: cover;" alt="MongoDB Repository"/>
+            <img src="https://raw.githubusercontent.com/kushkumarkashyap7280/assets/main/mongodb-database.gif" width="100%" height="140px" style="object-fit: cover;" alt="MongoDB Repository"/>
           </a>
         </p>
         <p>Comprehensive MongoDB tutorial with examples, queries, and best practices.</p>
