@@ -47,7 +47,7 @@ I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithm
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A9;Building+Amazing+Web+Apps+%F0%9F%8C%90;Code+%7C+Create+%7C+Innovate+%F0%9F%92%A1" alt="Typing SVG" />
   
   <!-- Animated GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation" />
+   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Database Animation"/>
   
   <!-- Social Badges with Custom Styling -->
   <p>
@@ -129,9 +129,7 @@ I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithm
   <img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=dark&font=Source%20Code%20Pro&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF" />
-</div>
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Featured Projects
 
@@ -143,9 +141,7 @@ I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithm
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" />
           Portfolio Website
         </h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Portfolio Animation"/>
-        </div>
+       
         <p align="center">
           <a href="https://kush-kumar.vercel.app/" target="_blank">
             <img src="https://custom-icon-badges.demolab.com/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF6B6B" alt="Live Demo"/>
@@ -159,9 +155,7 @@ I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithm
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" />
           Call of Coders
         </h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
-        </div>
+       
         <p align="center">
           <a href="https://www.youtube.com/@callofcoders" target="_blank">
             <img src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=video&logoColor=white&labelColor=FF0000" alt="YouTube"/>
@@ -177,9 +171,7 @@ I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithm
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" />
           MERN Backend
         </h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Backend Animation"/>
-        </div>
+      
         <p align="center">
           <a href="https://github.com/kushkumarkashyap7280/MERN-BACKEND" target="_blank">
             <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=181717" alt="GitHub"/>
@@ -193,9 +185,7 @@ I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithm
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="25" />
           MongoDB Learning Hub
         </h3>
-        <div align="center">
-          <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Database Animation"/>
-        </div>
+     
         <p align="center">
           <a href="https://github.com/kushkumarkashyap7280/MONGODB" target="_blank">
             <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=181717" alt="GitHub"/>
@@ -218,7 +208,7 @@ I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithm
 
 <div align="center">
   
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25" /> **Repository** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25" /> **Focus Area** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="25" /> **Description** |
+|  **Repository** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25" /> **Focus Area** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="25" /> **Description** |
 |------------|------------|-------------|
 | [**DSA Practice**](https://github.com/kushkumarkashyap7280/DSA) | Data Structures & Algorithms | Daily DSA practice with solutions and explanations |
 | [**JavaScript Mastery**](https://github.com/kushkumarkashyap7280/JAVASCRIPT) | Core JavaScript | Advanced JS concepts and practical implementations |
@@ -226,9 +216,6 @@ I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithm
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" alt="Learning Animation" />
-</div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
 
@@ -254,7 +241,7 @@ I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithm
   
   <br><br>
   
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Thank You Animation" />
+
   
   <p><em>💡 "Building the future, one line of code at a time." 💡</em></p>
   
