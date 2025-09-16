@@ -2,13 +2,9 @@
 <div align="center">
 
 <!-- Clean Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Kush%20Kumar&fontSize=50&fontColo### 🎯 Learning Path
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Kush%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer&descAlign=50&descAlignY=55&descSize=20" />
 
-| 📂 **Repository** | 🎯 **Focus Area** | 📈 **Progress** | 🔗 **Link** |
-|:-|:-|:-|:-|
-| **DSA Practice** | Data Structures & Algorithms | ![](https://img.shields.io/badge/85%25-4285F4?style=flat-square) | [View Repository](https://github.com/kushkumarkashyap7280/DSA) |
-| **JavaScript Mastery** | Advanced JavaScript Concepts | ![](https://img.shields.io/badge/90%25-1976D2?style=flat-square) | [Explore Code](https://github.com/kushkumarkashyap7280/JAVASCRIPT) |
-| **MongoDB Handbook** | Database Management | ![](https://img.shields.io/badge/95%25-607D8B?style=flat-square) | [Learn Database](https://github.com/kushkumarkashyap7280/MONGODB) |imation=fadeIn&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer&descAlign=50&descAlignY=55&descSize=20" />
+
 
 <!-- Professional Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=30&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&height=80&lines=Building+Scalable+Web+Applications;Crafting+Digital+Solutions;MERN+Stack+Specialist;Problem+Solver+%26+Innovator" alt="Professional Typing" />
@@ -255,17 +251,13 @@ Comprehensive MongoDB learning resource with practical examples, queries, and be
 
 ## 📚 Popular Repositories
 
-<div align="center">
+<div align="center"
 
-| 🗂️ **Repository** | 🎯 **Focus Area** | 📈 **Progress** | 🔗 **Link** |
+| 🗂️ **Repository** | 🎯 **Focus Area** | 🔗 **Link** |
 |:-|:-|:-|:-|
-| **DSA Practice** | Data Structures & Algorithms | ![](https://img.shields.io/badge/85%25-4285F4?style=flat-square) | [View Repository](https://github.com/kushkumarkashyap7280/DSA) |
-| **JavaScript Mastery** | Advanced JavaScript Concepts | ![](https://img.shields.io/badge/90%25-1976D2?style=flat-square) | [Explore Code](https://github.com/kushkumarkashyap7280/JAVASCRIPT) |
-| **MongoDB Handbook** | Database Management | ![](https://img.shields.io/badge/95%25-607D8B?style=flat-square) | [Learn Database](https://github.com/kushkumarkashyap7280/MONGODB) |
-
-### 📖 What I'm Currently Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=500&height=60&lines=TypeScript+Development;GraphQL+APIs;Docker+Containerization;Cloud+Deployment;System+Design" />
+| **DSA Practice** | Data Structures & Algorithms | [View Repository](https://github.com/kushkumarkashyap7280/DSA) |
+| **JavaScript Mastery** | Advanced JavaScript Concepts | [Explore Code](https://github.com/kushkumarkashyap7280/JAVASCRIPT) |
+| **MongoDB Handbook** | Database Management | [Learn Database](https://github.com/kushkumarkashyap7280/MONGODB) |
 
 </div>
 
