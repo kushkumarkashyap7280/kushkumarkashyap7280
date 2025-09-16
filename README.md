@@ -112,14 +112,14 @@ const kushKumar = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=4285F4&icon_color=1976D2&text_color=333333&border_color=E0E0E0&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushkumarkashyap7280&layout=compact&theme=default&bg_color=ffffff&title_color=4285F4&text_color=333333&border_color=E0E0E0&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushkumarkashyap7280&layout=compact&theme=tokyonight&border_radius=10" />
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumarkashyap7280&theme=default&background=ffffff&stroke=4285F4&ring=1976D2&fire=4285F4&currStreakNum=333333&sideNums=333333&currStreakLabel=4285F4&sideLabels=1976D2&dates=666666&border=E0E0E0" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumarkashyap7280&theme=tokyonight&border_radius=10" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushkumarkashyap7280&bg_color=ffffff&color=4285F4&line=1976D2&point=4285F4&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushkumarkashyap7280&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=kushkumarkashyap7280&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=4&row=2&title=Commit,Stars,Repositories,PullRequest" />
+<img src="https://github-profile-trophy.vercel.app/?username=kushkumarkashyap7280&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4&row=2&title=Commit,Stars,Repositories,PullRequest" />
 
 </div>
 
@@ -129,10 +129,10 @@ const kushKumar = {
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=light&font=Inter&ext=activity&border=1&border_color=E0E0E0" />
+<img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=dark&font=Inter&ext=activity&border=1&border_color=70a5fd" />
 
 ### 🎯 Problem Solving Approach
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=500&height=60&lines=Daily+DSA+Practice;Algorithmic+Problem+Solving;Code+Optimization;Pattern+Recognition" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&height=60&lines=Daily+DSA+Practice;Algorithmic+Problem+Solving;Code+Optimization;Pattern+Recognition" />
 
 </div>
 
