@@ -247,19 +247,7 @@ Comprehensive MongoDB learning resource with practical examples, queries, and be
 
 </div>
 
----
 
-## 📚 Popular Repositories
-
-<div align="center"
-
-| 🗂️ **Repository** | 🎯 **Focus Area** | 🔗 **Link** |
-|:-|:-|:-|:-|
-| **DSA Practice** | Data Structures & Algorithms | [View Repository](https://github.com/kushkumarkashyap7280/DSA) |
-| **JavaScript Mastery** | Advanced JavaScript Concepts | [Explore Code](https://github.com/kushkumarkashyap7280/JAVASCRIPT) |
-| **MongoDB Handbook** | Database Management | [Learn Database](https://github.com/kushkumarkashyap7280/MONGODB) |
-
-</div>
 
 ---
 
