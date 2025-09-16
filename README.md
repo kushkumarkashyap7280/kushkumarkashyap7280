@@ -1,488 +1,312 @@
-<div align="center"><div align="center">
-
-    
-
-  <!-- Animated Header -->  <!-- Animated He## <img src="https://media.gi## <img src="https://media2.gi## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kush%20Kumar&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32" />
-
-  <div align="center">
-
-  <!-- Animated Typing SVG -->  <img src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=30363D" width="48%" alt="GitHub Stats" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A9;Building+Amazing+Web+Apps+%F0%9F%8C%90;Code+%7C+Create+%7C+Innovate+%F0%9F%92%A1" alt="Typing SVG" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumarkashyap7280&theme=radical&hide_border=true&background=0D1117&stroke=30363D&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" width="48%" alt="GitHub Streak" />
-
-  </div>
-
-  <!-- Animated GIF -->
-
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation" /><div align="center">
-
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushkumarkashyap7280&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-  <!-- Social Badges with Custom Styling --></div>
-
-  <p>
-
-    <a href="https://kush-kumar.vercel.app/"><div align="center">
-
-      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white&labelColor=FF6B6B" alt="Portfolio" />  <img src="https://github-profile-trophy.vercel.app/?username=kushkumarkashyap7280&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
-
-    </a></div>dia/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technical Skills
-
-    <a href="mailto:kushkumar.officialsoftwaredev@gmail.com">
-
-      <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=EA4335" alt="Email" /><div align="center">
-
-    </a>  
-
-    <a href="https://www.linkedin.com/in/kush-kumar-b10020302/">  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-
-    </a>  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-
-    <a href="https://leetcode.com/kushkumarkashyap7280">  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-
-      <img src="https://custom-icon-badges.demolab.com/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode" />  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-
-    </a>
-
-    <a href="https://www.youtube.com/@callofcoders"></div>
-
-      <img src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=video&logoColor=white&labelColor=FF0000" alt="YouTube" />
-
-    </a><div align="center">.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-  </p>
-
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-
-  <!-- Animated Stats -->
-
-  <p>I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithms enthusiast** pursuing **Bachelor of Vocation in Software Development** at Ramanujan College, Delhi University (2024-2027). I specialize in building scalable web applications and solving complex algorithmic problems daily.
-
-    <img src="https://komarev.com/ghpvc/?username=kushkumarkashyap7280&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-    <img src="https://img.shields.io/github/followers/kushkumarkashyap7280?style=for-the-badge&color=blue&labelColor=blue" alt="Followers" />### 🎯 What I Do
-
-    <img src="https://img.shields.io/github/stars/kushkumarkashyap7280?style=for-the-badge&color=yellow&labelColor=yellow" alt="Stars" />- 💻 Build full-stack applications using **MERN stack**
-
-  </p>- 🧩 Practice **Data Structures & Algorithms** daily
-
-  - 📚 Create educational content on web development
-
-  <!-- Wave Separator -->- 🚀 Develop modern, responsive web applications
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-  ### 🎓 Education
-
-</div>**Bachelor of Vocation in Software Development**  
-
-*Ramanujan College, Delhi University* | 2024-2027
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">mg src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kush%20Kumar&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32" />
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">  
-
-  <!-- Animated Typing SVG -->
-
-I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithms enthusiast** pursuing **Bachelor of Vocation in Software Development** at Ramanujan College, Delhi University (2024-2027). I specialize in building scalable web applications and solving complex algorithmic problems daily.  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A9;Building+Amazing+Web+Apps+%F0%9F%8C%90;Code+%7C+Create+%7C+Innovate+%F0%9F%92%A1" alt="Typing SVG" />
-
-  
-
-### 🎯 What I Do  <!-- Animated GIF -->
-
-- 💻 Build full-stack applications using **MERN stack**   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Database Animation"/>
-
-- 🧩 Practice **Data Structures & Algorithms** daily  
-
-- 📚 Create educational content on web development  <!-- Social Badges with Custom Styling -->
-
-- 🚀 Develop modern, responsive web applications  <p>
-
-    <a href="https://kush-kumar.vercel.app/">
-
-### 🎓 Education      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white&labelColor=FF6B6B" alt="Portfolio" />
-
-**Bachelor of Vocation in Software Development**      </a>
-
-*Ramanujan College, Delhi University* | 2024-2027    <a href="mailto:kushkumar.officialsoftwaredev@gmail.com">
-
-      <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=EA4335" alt="Email" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    </a>
-
-    <a href="https://www.linkedin.com/in/kush-kumar-b10020302/">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technical Skills      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-
-    </a>
-
-<div align="center">    <a href="https://leetcode.com/kushkumarkashyap7280">
-
-        <img src="https://custom-icon-badges.demolab.com/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode" />
-
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />    </a>
-
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />    <a href="https://www.youtube.com/@callofcoders">
-
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />      <img src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=video&logoColor=white&labelColor=FF0000" alt="YouTube" />
-
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />    </a>
-
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />  </p>
-
-  
-
-### 🌐 Frontend Technologies  <!-- Animated Stats -->
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs&theme=dark" />  <p>
-
-    <img src="https://komarev.com/ghpvc/?username=kushkumarkashyap7280&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-### ⚡ Backend & Database      <img src="https://img.shields.io/github/followers/kushkumarkashyap7280?style=for-the-badge&color=blue&labelColor=blue" alt="Followers" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />    <img src="https://img.shields.io/github/stars/kushkumarkashyap7280?style=for-the-badge&color=yellow&labelColor=yellow" alt="Stars" />
-
-  </p>
-
-### ☁️ Cloud & Deployment  
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,postman&theme=dark" />  <!-- Wave Separator -->
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-### 🛠️ Tools & Development  
-
-<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" /></div>
-
-
-
-</div>## 👨‍💻 About Me
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">I'm a passionate **Full Stack MERN Developer** and **Data Structures & Algorithms enthusiast** pursuing **Bachelor of Vocation in Software Development** at Ramanujan College, Delhi University (2024-2027). I specialize in building scalable web applications and solving complex algorithmic problems daily.
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics### 🎯 What I Do
-
-- 💻 Build full-stack applications using **MERN stack**
-
-<div align="center">- 🧩 Practice **Data Structures & Algorithms** daily
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=30363D" width="48%" alt="GitHub Stats" />- 📚 Create educational content on web development
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumarkashyap7280&theme=radical&hide_border=true&background=0D1117&stroke=30363D&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" width="48%" alt="GitHub Streak" />- 🚀 Develop modern, responsive web applications
-
-</div>
-
-### � Education
-
-<div align="center">**Bachelor of Vocation in Software Development**  
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushkumarkashyap7280&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />*Ramanujan College, south campus  Delhi University* | 2024-2027
-
-</div>
-
-## �️ Technical Skills
-
+<!-- Cyberpunk Neon Theme README -->
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=kushkumarkashyap7280&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" /><div align="center">
-
-</div>
-
-### 🌐 Frontend Technologies
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> LeetCode Progress<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs&theme=dark" />
-
-
-
-<div align="center">### ⚡ Backend & Database  
-
-  <img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=dark&font=Source%20Code%20Pro&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" /><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-
-</div>
-
-### ☁️ Cloud & Deployment
-
-<div align="center"><img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,postman&theme=dark" />
-
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF" />
-
-</div>### 🛠️ Tools & Development
-
-<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" />
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Featured Projects
-
-</div>
-
-<div align="center">
-
-  <table>## � GitHub Analytics
-
-    <tr>
-
-      <td width="50%"><div align="center">
-
-        <h3 align="center">  <img src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumarkashyap7280&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-
-          Portfolio Website</div>
-
-        </h3>
-
-        <div align="center"><div align="center">
-
-          <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Portfolio Animation"/>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushkumarkashyap7280&theme=tokyo-night&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
-
-        </div></div>
-
-        <p align="center">
-
-          <a href="https://kush-kumar.vercel.app/" target="_blank">## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> LeetCode Progress
-
-            <img src="https://custom-icon-badges.demolab.com/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF6B6B" alt="Live Demo"/>
-
-          </a><div align="center">
-
-        </p>  <img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=dark&font=Source%20Code%20Pro&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
-
-        <p><strong>Next.js, TailwindCSS, Framer Motion</strong></p></div>
-
-        <p>Professional developer portfolio showcasing projects and skills with modern design and smooth animations.</p>
-
-      </td>
-
-      <td width="50%">
-
-        <h3 align="center">## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Featured Projects
-
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" />
-
-          Call of Coders<div align="center">
-
-        </h3>  <table>
-
-        <div align="center">    <tr>
-
-          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>      <td width="50%">
-
-        </div>        <h3 align="center">
-
-        <p align="center">          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" />
-
-          <a href="https://www.youtube.com/@callofcoders" target="_blank">          Portfolio Website
-
-            <img src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=video&logoColor=white&labelColor=FF0000" alt="YouTube"/>        </h3>
-
-          </a>       
-
-        </p>        <p align="center">
-
-        <p><strong>React, Express, MongoDB, TailwindCSS</strong></p>          <a href="https://kush-kumar.vercel.app/" target="_blank">
-
-        <p>Educational platform teaching programming & DSA concepts through interactive tutorials and content.</p>            <img src="https://custom-icon-badges.demolab.com/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF6B6B" alt="Live Demo"/>
-
-      </td>          </a>
-
-    </tr>        </p>
-
-    <tr>        <p><strong>Next.js, TailwindCSS, Framer Motion</strong></p>
-
-      <td width="50%">        <p>Professional developer portfolio showcasing projects and skills with modern design and smooth animations.</p>
-
-        <h3 align="center">      </td>
-
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" />      <td width="50%">
-
-          MERN Backend        <h3 align="center">
-
-        </h3>          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" />
-
-        <div align="center">          Call of Coders
-
-          <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Backend Animation"/>        </h3>
-
-        </div>       
-
-        <p align="center">        <p align="center">
-
-          <a href="https://github.com/kushkumarkashyap7280/MERN-BACKEND" target="_blank">          <a href="https://www.youtube.com/@callofcoders" target="_blank">
-
-            <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=181717" alt="GitHub"/>            <img src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=video&logoColor=white&labelColor=FF0000" alt="YouTube"/>
-
-          </a>          </a>
-
-        </p>        </p>
-
-        <p><strong>Node.js, Express, MongoDB, JWT</strong></p>        <p><strong>React, Express, MongoDB, TailwindCSS</strong></p>
-
-        <p>Scalable backend with authentication, RESTful APIs, MVC architecture, and cloud integrations.</p>        <p>Educational platform teaching programming & DSA concepts through interactive tutorials and content.</p>
-
-      </td>      </td>
-
-      <td width="50%">    </tr>
-
-        <h3 align="center">    <tr>
-
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="25" />      <td width="50%">
-
-          MongoDB Learning Hub        <h3 align="center">
-
-        </h3>          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" />
-
-        <div align="center">          MERN Backend
-
-          <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Database Animation"/>        </h3>
-
-        </div>      
-
-        <p align="center">        <p align="center">
-
-          <a href="https://github.com/kushkumarkashyap7280/MONGODB" target="_blank">          <a href="https://github.com/kushkumarkashyap7280/MERN-BACKEND" target="_blank">
-
-            <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=181717" alt="GitHub"/>            <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=181717" alt="GitHub"/>
-
-          </a>          </a>
-
-        </p>        </p>
-
-        <p><strong>MongoDB, Mongoose, Aggregation</strong></p>        <p><strong>Node.js, Express, MongoDB, JWT</strong></p>
-
-        <p>Comprehensive MongoDB tutorial with examples, queries, and database design best practices.</p>        <p>Scalable backend with authentication, RESTful APIs, MVC architecture, and cloud integrations.</p>
-
-      </td>      </td>
-
-    </tr>      <td width="50%">
-
-  </table>        <h3 align="center">
-
-</div>          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="25" />
-
-          MongoDB Learning Hub
-
-<div align="center">        </h3>
-
-  <a href="https://github.com/kushkumarkashyap7280?tab=repositories">     
-
-    <img src="https://custom-icon-badges.demolab.com/badge/View_All_Projects-4285F4?style=for-the-badge&logo=repo&logoColor=white&labelColor=4285F4" alt="View All Projects" />        <p align="center">
-
-  </a>          <a href="https://github.com/kushkumarkashyap7280/MONGODB" target="_blank">
-
-</div>            <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=181717" alt="GitHub"/>
-
-          </a>
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Learning & Development        </p>
-
-        <p><strong>MongoDB, Mongoose, Aggregation</strong></p>
-
-<div align="center">        <p>Comprehensive MongoDB tutorial with examples, queries, and database design best practices.</p>
-
-        </td>
-
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25" /> **Repository** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25" /> **Focus Area** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="25" /> **Description** |    </tr>
-
-|------------|------------|-------------|  </table>
-
-| [**DSA Practice**](https://github.com/kushkumarkashyap7280/DSA) | Data Structures & Algorithms | Daily DSA practice with solutions and explanations |</div>
-
-| [**JavaScript Mastery**](https://github.com/kushkumarkashyap7280/JAVASCRIPT) | Core JavaScript | Advanced JS concepts and practical implementations |
-
-| [**MongoDB Essentials**](https://github.com/kushkumarkashyap7280/MONGODB) | Database Management | MongoDB tutorial with queries and best practices |<div align="center">
-
-  <a href="https://github.com/kushkumarkashyap7280?tab=repositories">
-
-</div>    <img src="https://custom-icon-badges.demolab.com/badge/View_All_Projects-4285F4?style=for-the-badge&logo=repo&logoColor=white&labelColor=4285F4" alt="View All Projects" />
-
+<!-- Neon Header with Matrix Effect -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00ff41&text=KUSH%20KUMAR&height=150&fontSize=40&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=75&descAlign=50&animation=blinking" />
+
+<!-- Matrix-style Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=100&lines=%3E%20INITIALIZING%20SYSTEM...;%3E%20LOADING%20DEVELOPER%20PROFILE...;%3E%20ACCESS%20GRANTED%20%E2%9C%93;%3E%20WELCOME%20TO%20THE%20MATRIX%20%F0%9F%92%8A" alt="Matrix Typing" />
+
+<!-- Cyberpunk ASCII Art -->
+<pre>
+<code>
+██╗  ██╗██╗   ██╗███████╗██╗  ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
+██║ ██╔╝██║   ██║██╔════╝██║  ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+█████╔╝ ██║   ██║███████╗███████║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██╔═██╗ ██║   ██║╚════██║██╔══██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║  ██╗╚██████╔╝███████║██║  ██║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+</code>
+</pre>
+
+<!-- Hero Section with Male Character -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Hero" />
+
+<!-- Status Indicators -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=circle&logoColor=00ff41&labelColor=000000" />
+<img src="https://img.shields.io/badge/MODE-DEVELOPER-ff0080?style=for-the-badge&logo=code&logoColor=ff0080&labelColor=000000" />
+<img src="https://img.shields.io/badge/LEVEL-FULL_STACK-00d4ff?style=for-the-badge&logo=stackshare&logoColor=00d4ff&labelColor=000000" />
+
+<!-- Social Matrix -->
+<p>
+  <a href="https://kush-kumar.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github-pages&logoColor=00ff41&labelColor=000000&color=00ff41" />
   </a>
+  <a href="mailto:kushkumar.officialsoftwaredev@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=ff0080&labelColor=000000&color=ff0080" />
+  </a>
+  <a href="https://www.linkedin.com/in/kush-kumar-b10020302/">
+    <img src="https://img.shields.io/badge/NETWORK-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=000000&color=00d4ff" />
+  </a>
+  <a href="https://leetcode.com/kushkumarkashyap7280">
+    <img src="https://img.shields.io/badge/ALGORITHM-000000?style=for-the-badge&logo=leetcode&logoColor=ffa500&labelColor=000000&color=ffa500" />
+  </a>
+</p>
 
-<div align="center"></div>
+<!-- Neon Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" alt="Learning Animation" />
+</div>
 
-</div>## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Learning & Development
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> ```SYSTEM_INFO.exe```
 
+```console
+┌─[kush@matrix]─[~]
+└──╼ $ whoami
+> Full Stack MERN Developer
+> Code Architect & Problem Solver
+> Student at Ramanujan College, DU (2024-2027)
 
+┌─[kush@matrix]─[~]
+└──╼ $ cat mission.txt
+> Building scalable web applications
+> Mastering Data Structures & Algorithms
+> Creating digital experiences that matter
+> Turning caffeine into code ☕ → 💻
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect<div align="center">
+┌─[kush@matrix]─[~]
+└──╼ $ ls achievements/
+> 🎯 Daily DSA Practice
+> 🚀 Full Stack Projects
+> 📚 Educational Content Creator
+> 💡 Open Source Contributor
+```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844269-e61dade8-97b3-4dd4-9cbb-b1b0b84bbc0e.png" width="50px" /> ```TECH_STACK.dll```
+
+<div align="center">
+
+### ⚡ FRONTEND ARSENAL
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,bootstrap&perline=8&theme=dark" />
+
+### 🔥 BACKEND WEAPONS  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&perline=5&theme=dark" />
+
+### 🛠️ DEVELOPMENT TOOLS
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&perline=7&theme=dark" />
+
+### 🎯 PROGRAMMING LANGUAGES
+<img src="https://skillicons.dev/icons?i=js,typescript,python,java,cpp&perline=5&theme=dark" />
+
+</div>
+
+<!-- Terminal-style Skills Display -->
+<details>
+<summary><img src="https://img.shields.io/badge/CLICK_TO_EXPAND-SKILL_MATRIX-00ff41?style=for-the-badge&logo=terminal&logoColor=00ff41&labelColor=000000" /></summary>
+
+```javascript
+const developer = {
+  name: "Kush Kumar",
+  role: "Full Stack Developer",
   
-
-<div align="center">|  **Repository** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25" /> **Focus Area** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="25" /> **Description** |
-
-  |------------|------------|-------------|
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&height=50&lines=Open+to+Work!+%F0%9F%9A%80;Let's+Build+Together!+%F0%9F%A4%9D;Ready+for+New+Challenges!+%F0%9F%92%AA" alt="Connect Typing SVG" />| [**DSA Practice**](https://github.com/kushkumarkashyap7280/DSA) | Data Structures & Algorithms | Daily DSA practice with solutions and explanations |
-
-  | [**JavaScript Mastery**](https://github.com/kushkumarkashyap7280/JAVASCRIPT) | Core JavaScript | Advanced JS concepts and practical implementations |
-
-  <div>| [**MongoDB Essentials**](https://github.com/kushkumarkashyap7280/MONGODB) | Database Management | MongoDB tutorial with queries and best practices |
-
-    <a href="https://www.linkedin.com/in/kush-kumar-b10020302/">
-
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></div>
-
-    </a>
-
-    <a href="mailto:kushkumar.officialsoftwaredev@gmail.com">
-
-      <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=EA4335" alt="Email" />## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
-
-    </a>
-
-    <a href="https://kush-kumar.vercel.app/"><div align="center">
-
-      <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white&labelColor=FF6B6B" alt="Portfolio" />  
-
-    </a>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&height=50&lines=Open+to+Work!+%F0%9F%9A%80;Let's+Build+Together!+%F0%9F%A4%9D;Ready+for+New+Challenges!+%F0%9F%92%AA" alt="Connect Typing SVG" />
-
-  </div>  
-
-    <div>
-
-  <br>    <a href="https://www.linkedin.com/in/kush-kumar-b10020302/">
-
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-
-  <img src="https://komarev.com/ghpvc/?username=kushkumarkashyap7280&style=for-the-badge&color=blueviolet" alt="Profile Views" />    </a>
-
-      <a href="mailto:kushkumar.officialsoftwaredev@gmail.com">
-
-  <br><br>      <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=EA4335" alt="Email" />
-
-      </a>
-
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Thank You Animation" />    <a href="https://kush-kumar.vercel.app/">
-
-        <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white&labelColor=FF6B6B" alt="Portfolio" />
-
-  <p><em>💡 "Building the future, one line of code at a time." 💡</em></p>    </a>
-
-    </div>
-
-  <!-- Wave Footer -->  
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />  <br>
-
-</div>  
-  <img src="https://komarev.com/ghpvc/?username=kushkumarkashyap7280&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  skills: {
+    frontend: ["React", "Next.js", "JavaScript", "HTML5", "CSS3", "Tailwind"],
+    backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
+    tools: ["Git", "VS Code", "Postman", "Figma"],
+    concepts: ["DSA", "OOP", "Database Design", "RESTful APIs"]
+  },
   
-  <br><br>
+  currentlyLearning: ["TypeScript", "GraphQL", "Docker"],
+  openToWork: true,
   
+  getMotivation: () => {
+    return "Code is poetry, and I'm writing the next masterpiece! 🎨";
+  }
+};
 
-  
-  <p><em>💡 "Building the future, one line of code at a time." 💡</em></p>
-  
-  <!-- Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+console.log(developer.getMotivation());
+```
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844281-7c5bb85b-3691-4c62-a19b-b86cf39266ce.png" width="50px" /> ```SYSTEM_ANALYTICS.json```
+
+<div align="center">
+
+<!-- Neon GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ff41&icon_color=ff0080&text_color=00d4ff&border_color=00ff41" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushkumarkashyap7280&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=000000&title_color=00ff41&text_color=00d4ff&border_color=00ff41" />
+
+<!-- Streak Stats with Cyberpunk Theme -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumarkashyap7280&theme=dark&background=000000&stroke=00ff41&ring=ff0080&fire=00d4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff&border=00ff41" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushkumarkashyap7280&bg_color=000000&color=00ff41&line=ff0080&point=00d4ff&area=true&hide_border=false&border_color=00ff41" width="100%" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=kushkumarkashyap7280&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=4&row=2" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844245-3b9c7ee1-e5d6-4b0f-8b9b-7e0b8e6b5a9a.png" width="50px" /> ```LEETCODE_TERMINAL.py```
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=dark&font=Orbitron&ext=activity&border=2&border_color=00ff41" />
+
+<!-- LeetCode Progress Simulation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=2000&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=80&lines=root%40leetcode%3A~%23+python3+daily_challenge.py;%3E+Running+algorithmic+solutions...;%3E+Problem+solved+successfully!+%E2%9C%85;%3E+Pushing+to+DSA+repository...;%3E+Ready+for+next+challenge!+%F0%9F%92%AA" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844257-ae9fd66b-8ad4-4c0c-8f41-00e8f6e0b9a3.png" width="50px" /> ```PROJECT_DATABASE.sql```
+
+<div align="center">
+
+<!-- Project Cards with Cyberpunk Design -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🌐 PORTFOLIO_V2.0
+
+```sql
+SELECT * FROM projects 
+WHERE name = 'portfolio'
+AND status = 'deployed';
+```
+
+**Stack:** `Next.js` `TailwindCSS` `Framer Motion`
+
+<a href="https://kush-kumar.vercel.app/">
+  <img src="https://img.shields.io/badge/DEPLOY-00ff41?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=00ff41&color=000000" />
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 📚 CALL_OF_CODERS
+
+```sql
+UPDATE education_platform 
+SET impact = 'high'
+WHERE platform = 'youtube';
+```
+
+**Stack:** `React` `Express` `MongoDB` `TailwindCSS`
+
+<a href="https://www.youtube.com/@callofcoders">
+  <img src="https://img.shields.io/badge/WATCH-ff0080?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=ff0080&color=000000" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### ⚡ MERN_BACKEND_API
+
+```sql
+GRANT ALL PRIVILEGES 
+ON backend_api.*
+TO 'developer'@'localhost';
+```
+
+**Stack:** `Node.js` `Express` `MongoDB` `JWT`
+
+<a href="https://github.com/kushkumarkashyap7280/MERN-BACKEND">
+  <img src="https://img.shields.io/badge/SOURCE-00d4ff?style=for-the-badge&logo=github&logoColor=000000&labelColor=00d4ff&color=000000" />
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 🗄️ MONGODB_MASTERY
+
+```sql
+db.developers.find({
+  "skill": "mongodb",
+  "level": "advanced"
+});
+```
+
+**Stack:** `MongoDB` `Mongoose` `Aggregation` `Atlas`
+
+<a href="https://github.com/kushkumarkashyap7280/MONGODB">
+  <img src="https://img.shields.io/badge/LEARN-ffa500?style=for-the-badge&logo=mongodb&logoColor=000000&labelColor=ffa500&color=000000" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/kushkumarkashyap7280?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=00ff41" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844243-7f3f7a3e-9f88-4b8a-a5a0-a5a7f5a5b5a5.png" width="50px" /> ```LEARNING_MODULES.js```
+
+<div align="center">
+
+<!-- Learning Path Visualization -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=const+learning+%3D+%5B%27DSA%27%2C+%27React%27%2C+%27Node.js%27%5D%3B;learning.map(skill+%3D%3E+master(skill))%3B;%2F%2F+Continuous+improvement+loop" />
+
+| 🚀 **Repository** | 🎯 **Focus** | 📊 **Progress** | 🔗 **Access** |
+|:-:|:-:|:-:|:-:|
+| **DSA Practice** | Data Structures & Algorithms | ![Progress](https://img.shields.io/badge/85%25-00ff41?style=flat-square&logo=target&logoColor=000000) | [🔍 Explore](https://github.com/kushkumarkashyap7280/DSA) |
+| **JavaScript Deep Dive** | Advanced JS Concepts | ![Progress](https://img.shields.io/badge/90%25-ff0080?style=flat-square&logo=javascript&logoColor=000000) | [⚡ Learn](https://github.com/kushkumarkashyap7280/JAVASCRIPT) |
+| **MongoDB Handbook** | Database Management | ![Progress](https://img.shields.io/badge/95%25-00d4ff?style=flat-square&logo=mongodb&logoColor=000000) | [🗄️ Study](https://github.com/kushkumarkashyap7280/MONGODB) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844275-e6a68b5e-f7a2-4b0c-8c9f-8e3b1d5d5b5d.png" width="50px" /> ```CONNECT_PROTOCOL.sh```
+
+<div align="center">
+
+<!-- Connection Matrix -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=%3E+Establishing+connection...;%3E+Handshake+successful!+%E2%9C%85;%3E+Ready+to+collaborate!+%F0%9F%A4%9D;%3E+Let's+build+something+amazing!+%F0%9F%9A%80" />
+
+```bash
+#!/bin/bash
+# Connection established
+echo "Initiating contact protocols..."
+
+LINKEDIN="https://www.linkedin.com/in/kush-kumar-b10020302/"
+EMAIL="kushkumar.officialsoftwaredev@gmail.com"  
+PORTFOLIO="https://kush-kumar.vercel.app/"
+YOUTUBE="https://www.youtube.com/@callofcoders"
+
+echo "All systems operational. Ready for collaboration!"
+```
+
+<p>
+  <a href="https://www.linkedin.com/in/kush-kumar-b10020302/">
+    <img src="https://img.shields.io/badge/NETWORK_LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00d4ff&color=000000" />
+  </a>
+  <a href="mailto:kushkumar.officialsoftwaredev@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=ff0080&color=000000" />
+  </a>
+  <a href="https://kush-kumar.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PROFILE-4285F4?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=00ff41&color=000000" />
+  </a>
+</p>
+
+<!-- Visitor Counter with Matrix Style -->
+<img src="https://komarev.com/ghpvc/?username=kushkumarkashyap7280&style=for-the-badge&color=00ff41&labelColor=000000" />
+
+<!-- Terminal Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=2000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%22There+is+no+spoon...+but+there+is+JavaScript!%22+%F0%9F%A5%84;%22In+the+matrix+of+code%2C+I+am+Neo.%22+%F0%9F%95%B6%EF%B8%8F;%22Wake+up%2C+Neo...+The+code+has+you.%22+%F0%9F%92%8A" />
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>🔮 Built with cyberpunk aesthetics in mind • Powered by pure passion for code • Made with 💚 by Kush Kumar</sub>
 </div>
