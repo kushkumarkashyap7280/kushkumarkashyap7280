@@ -33,7 +33,7 @@
   <a href="https://leetcode.com/kushkumarkashyap7280">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.youtube.com/@callofcoders">
+  <a href="https://www.youtube.com/@callofcodersbykush">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
@@ -181,7 +181,7 @@ Educational platform focused on programming tutorials and DSA concepts. Creating
 - Community engagement
 
 <div align="center">
-<a href="https://www.youtube.com/@callofcoders">
+<a href="https://www.youtube.com/@callofcodersbykush">
   <img src="https://img.shields.io/badge/Watch%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </div>
