@@ -1,16 +1,13 @@
-<!-- Modern Minimalist Tech Theme -->
 <div align="center">
 
-<!-- Clean Professional Header -->
+<!-- Professional Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Kush%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer&descAlign=50&descAlignY=55&descSize=20" />
 
-
-
-<!-- Professional Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=30&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&height=80&lines=Building+Scalable+Web+Applications;Crafting+Digital+Solutions;MERN+Stack+Specialist;Problem+Solver+%26+Innovator" alt="Professional Typing" />
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=700&height=80&lines=Building+Scalable+Web+Applications;Crafting+Digital+Solutions;MERN+Stack+Specialist;Problem+Solver+%26+Innovator;Passionate+About+Clean+Code" alt="Professional Typing" />
 
 <!-- Hero Developer GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer at Work" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Developer at Work" />
 
 <!-- Professional Status Badges -->
 <p>
@@ -19,10 +16,10 @@
   <img src="https://img.shields.io/badge/Location-Delhi,%20India-607D8B?style=for-the-badge&logo=location&logoColor=white" />
 </p>
 
-<!-- Clean Social Links -->
+<!-- Social Links -->
 <p>
-  <a href="https://kush-kumar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://www.kushkumar.me">
+    <img src="https://img.shields.io/badge/Website-www.kushkumar.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:kushkumar.officialsoftwaredev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -37,6 +34,9 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=kushkumarkashyap7280&style=for-the-badge&color=4285F4" alt="Profile Views" />
 
 </div>
 
@@ -103,31 +103,96 @@ const kushKumar = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics & Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushkumarkashyap7280&layout=compact&theme=tokyonight&border_radius=10" />
+### 📈 Performance Metrics
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumarkashyap7280&theme=tokyonight&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=1a1b27&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=9aa5ce" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushkumarkashyap7280&layout=compact&theme=tokyonight&border_radius=12&bg_color=1a1b27&hide_border=true&title_color=70a5fd&text_color=9aa5ce&langs_count=8" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushkumarkashyap7280&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+### 🔥 Contribution Streak
 
-<img src="https://github-profile-trophy.vercel.app/?username=kushkumarkashyap7280&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4&row=2&title=Commit,Stars,Repositories,PullRequest" />
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=kushkumarkashyap7280&theme=tokyonight&border_radius=12&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6e96&currStreakLabel=70a5fd&sideNums=9aa5ce&currStreakNum=70a5fd&dates=9aa5ce&sideLabels=9aa5ce" />
+
+### 📊 Contribution Activity Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushkumarkashyap7280&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Timeline" />
+
+### 🏆 GitHub Trophies & Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=kushkumarkashyap7280&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4&row=2&title=Commit,Stars,Repositories,PullRequest,Issues,Followers" />
+
+### 📌 Additional Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kushkumarkashyap7280&theme=tokyonight&border_radius=12&bg_color=1a1b27&hide_border=true&title_color=70a5fd&text_color=9aa5ce&custom_title=Weekly%20Coding%20Activity" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=kushkumarkashyap7280&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&border_radius=12&hide_border=true" />
 
 </div>
 
 ---
 
-## 💻 LeetCode Journey
+## 💻 LeetCode Statistics & Performance
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=dark&font=Inter&ext=activity&border=1&border_color=70a5fd" />
+### 🎯 LeetCode Profile Card
 
-### 🎯 Problem Solving Approach
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&height=60&lines=Daily+DSA+Practice;Algorithmic+Problem+Solving;Code+Optimization;Pattern+Recognition" />
+<img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=dark&font=Inter&ext=activity&border=2&border_color=70a5fd&radius=12" width="80%" />
+
+### 📊 Problem Solving Statistics
+
+<img src="https://leetcode-stats-six.vercel.app/api?username=kushkumarkashyap7280&theme=dark" width="70%" />
+
+### 🔥 LeetCode Achievements
+
+<div>
+  <img src="https://img.shields.io/badge/Easy-Solved-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-Solved-F0AD4E?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hard-Solved-D9534F?style=for-the-badge&logo=leetcode&logoColor=white" />
+</div>
+
+### 🚀 Problem Solving Approach
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=600&height=70&lines=Daily+DSA+Practice+%F0%9F%93%85;Algorithmic+Problem+Solving+%F0%9F%A7%A0;Code+Optimization+%E2%9A%A1;Pattern+Recognition+%F0%9F%94%8D;Time+%26+Space+Complexity+Analysis+%F0%9F%93%8A" />
+
+### 💡 Focus Areas
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/binary-tree.png" width="60"/><br>
+<b>Data Structures</b><br>
+Arrays, LinkedLists<br>Trees, Graphs, Heaps
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/graph.png" width="60"/><br>
+<b>Algorithms</b><br>
+Sorting, Searching<br>DP, Greedy, Backtracking
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br>
+<b>Problem Patterns</b><br>
+Sliding Window<br>Two Pointers, Binary Search
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/optimization.png" width="60"/><br>
+<b>Optimization</b><br>
+Time Complexity<br>Space Complexity
+</td>
+</tr>
+</table>
+
+### 📈 Progress Tracking
+
+```text
+🎯 Daily Goal: Solve at least 2 problems
+🔥 Current Streak: Building consistency
+📚 Topics Mastered: Arrays, Strings, Hashmaps, Two Pointers
+🎓 Currently Learning: Dynamic Programming, Graph Algorithms
+⭐ Contest Rating: Actively participating
+```
 
 </div>
 
@@ -268,13 +333,19 @@ I'm always interested in discussing new opportunities, collaborating on projects
   <a href="mailto:kushkumar.officialsoftwaredev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://kush-kumar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://www.kushkumar.me">
+    <img src="https://img.shields.io/badge/Website-www.kushkumar.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://leetcode.com/kushkumarkashyap7280">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
 
 ### 💡 Fun Fact
 *"I turn coffee into code and bugs into features!"* ☕→💻
+
+### 🌐 Visit My Website
+**[www.kushkumar.me](https://www.kushkumar.me)** - Explore my portfolio, projects, and blog posts!
 
 ---
 
