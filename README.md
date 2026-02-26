@@ -24,9 +24,6 @@ I build scalable web applications, solve algorithmic problems daily, and create 
 
 ### Live Stats
 
-- LeetCode stats:
-- GitHub overview & activity:
-
 - GitHub activity (contributions/commits):
 
  	![GitHub Activity Graph](https://ghchart.rshah.org/kushkumarkashyap7280)
