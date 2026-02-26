@@ -16,8 +16,6 @@ I build scalable web applications, solve algorithmic problems daily, and create 
 
 ---
 
-## Technical Skills
-
 ## Social & Stats
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-kumar-b10020302/)
@@ -27,16 +25,13 @@ I build scalable web applications, solve algorithmic problems daily, and create 
 ### Live Stats
 
 - LeetCode stats:
-
-	![LeetCode Stats](https://leetcode-stats.vercel.app/?username=kushkumarkashyap7280&theme=dark)
-
 - GitHub overview & activity:
 
-	![GitHub stats](https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=radical)
+- GitHub activity (contributions/commits):
 
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushkumarkashyap7280&layout=compact&theme=radical)
+ 	![GitHub Activity Graph](https://ghchart.rshah.org/kushkumarkashyap7280)
 
-	![GitHub Activity Graph](https://ghchart.rshah.org/kushkumarkashyap7280)
+- LeetCode profile: [kushkumarkashyap7280](https://leetcode.com/u/kushkumarkashyap7280/)
 
 
 
