@@ -11,8 +11,21 @@ I'm a software developer specializing in full-stack web development with the MER
 I build scalable web applications, solve algorithmic problems daily, and create educational content about software development.
 
 **Location:** Delhi, India  
-**Website:** www.kushkumar.me  
+
+**Website:** [www.kushkumar.me](https://www.kushkumar.me)
+
 **Email:** kushkumar.officialsoftwaredev@gmail.com
+
+---
+
+## GSSoC 2026
+
+Selected as a **Contributor** for GirlScript Summer of Code (GSSoC) 2026.
+
+<p align="center">
+	<img src="./contributor.png" alt="GSSoC 2026 Contributor Badge" width="320" />
+	<img src="./open.png" alt="GSSoC 2026 Open Source Track Badge" width="320" />
+</p>
 
 ---
 
@@ -22,13 +35,24 @@ I build scalable web applications, solve algorithmic problems daily, and create 
 - [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@callofcodersbykush)
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kushkumarkashyap7280/)
 
-### Live Stats
+### Coding Stats
 
-- GitHub activity (contributions/commits):
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kush Kumar GitHub Stats" height="170" />
+	<img src="https://streak-stats.demolab.com?user=kushkumarkashyap7280&theme=tokyonight&hide_border=true" alt="Kush Kumar GitHub Streak" height="170" />
+</p>
 
- 	![GitHub Activity Graph](https://ghchart.rshah.org/kushkumarkashyap7280)
+### LeetCode Stats
 
-- LeetCode profile: [kushkumarkashyap7280](https://leetcode.com/u/kushkumarkashyap7280/)
+<p align="center">
+	<a href="https://leetcode.com/u/kushkumarkashyap7280/">
+		<img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=dark&font=Karma&ext=contest" alt="LeetCode stats for kushkumarkashyap7280" />
+	</a>
+</p>
+
+### Contribution Graph
+
+![GitHub Activity Graph](https://ghchart.rshah.org/kushkumarkashyap7280)
 
 
 
@@ -49,7 +73,7 @@ I build scalable web applications, solve algorithmic problems daily, and create 
 
 ---
 
-*Last updated: February 2026*
+*Last updated: April 2026*
 
 ## What I'm Working On
 
