@@ -1,121 +1,117 @@
-# Kush Kumar
+<!-- Header Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header" width="100%"/>
 
-Full Stack Developer • Problem Solver • Content Creator
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Boy Coding GIF" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="50" height="50" />
+  <h1>Hi there, I'm Kush Kumar</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Content+Creator;System+Design+Enthusiast" alt="Typing SVG" />
+  </a>
+  
+  <p align="center">
+    <a href="https://kushkumar.me" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-255D50?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/kush-kumar-b10020302" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/sudoinitialize" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://github.com/kushkumarkashyap7280" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm a software developer specializing in full-stack web development with the MERN stack. Currently pursuing a Bachelor of Vocation in Software Development at Ramanujan College, Delhi University.
-
-I build scalable web applications, solve algorithmic problems daily, and create educational content about software development.
-
-**Location:** Delhi, India  
-
-**Website:** [www.kushkumar.me](https://www.kushkumar.me)
-
-**Email:** kushkumar.officialsoftwaredev@gmail.com
+I'm a software developer specializing in full-stack web development with the MERN stack. Currently pursuing a Bachelor of Vocation in Software Development at Ramanujan College, Delhi University. I build scalable web applications, solve algorithmic problems daily, and create educational content about software development.
 
 ---
 
-## GSSoC 2026
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" alt="Television" width="35" height="35" /> YouTube Channel: [@sudoinitialize](https://www.youtube.com/@sudoinitialize)
 
-Selected as a **Contributor** for GirlScript Summer of Code (GSSoC) 2026.
+> **Initializing the development environment.**
+> 
+> Welcome to \`@sudoinitialize\`. I'm Kush, a full-stack software developer exploring system architecture, modern web technologies, and the logic behind the code. On this channel, we break down complex engineering concepts from the ground up—using digital whiteboards to map out microservices, component architecture, and deep-dive system designs.  
+> 
+> Expect clean logic, zero fluff, and scalable builds. Execute the subscribe command and let's get to work.
+
+<div align="center">
+  <a href="https://www.youtube.com/@sudoinitialize">
+    <img src="https://img.shields.io/badge/Subscribe_to_@sudoinitialize-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+  </a>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="35" height="35" /> LeetCode Stats
 
 <p align="center">
-	<img src="./contributor.png" alt="GSSoC 2026 Contributor Badge" width="320" />
-	<img src="./open.png" alt="GSSoC 2026 Open Source Track Badge" width="320" />
+  <a href="https://leetcode.com/u/kushkumarkashyap7280/">
+    <img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=radical&font=Karma" alt="LeetCode Stats" />
+  </a>
+</p>
+<p align="center">
+  <img src="./leetcode_50days.png" alt="LeetCode 50 Days Badge" width="120" />
+  <img src="./leetcode_100days.png" alt="LeetCode 100 Days Badge" width="120" />
 </p>
 
 ---
 
-## Social & Stats
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-kumar-b10020302/)
-- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@callofcodersbykush)
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kushkumarkashyap7280/)
-
-### Coding Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kush Kumar GitHub Stats" height="170" />
-	<img src="https://streak-stats.demolab.com?user=kushkumarkashyap7280&theme=tokyonight&hide_border=true" alt="Kush Kumar GitHub Streak" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kushkumarkashyap7280&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kush Kumar GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kushkumarkashyap7280&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kushkumarkashyap7280&theme=radical&hide_border=true" alt="Kush Kumar GitHub Streak" height="170" />
 </p>
 
-### LeetCode Stats
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Tech Stack
 
 <p align="center">
-	<a href="https://leetcode.com/u/kushkumarkashyap7280/">
-		<img src="https://leetcard.jacoblin.cool/kushkumarkashyap7280?theme=dark&font=Karma&ext=contest" alt="LeetCode stats for kushkumarkashyap7280" />
-	</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux,nodejs,express,mongodb,mysql,postgres,ts,js,py,java,cpp,git,github,vscode,docker,postman,redis,prisma,vercel&perline=12" alt="Tech Stack Icons" />
+  </a>
 </p>
 
-### Contribution Graph
+---
 
-![GitHub Activity Graph](https://ghchart.rshah.org/kushkumarkashyap7280)
-
-
-
-## Open Source / Projects
-
-- [batiyoun](https://github.com/kushkumarkashyap7280/batiyoun) - Open-source PWA (offline-first, native-like single-platform app that runs on every device). Uses the `kush-e2e` package for end-to-end flows and chat from anywhere. Contributions welcome.
-
-- NPM package: [kush-e2e](https://www.npmjs.com/package/kush-e2e) 
-
-	![npm version](https://img.shields.io/npm/v/kush-e2e?style=flat-square&logo=npm)
-	![npm downloads](https://img.shields.io/npm/dm/kush-e2e?style=flat-square)
-
-- Repo badge:
-
-	[![batiyoun on GitHub](https://img.shields.io/badge/GitHub-batiyoun-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushkumarkashyap7280/batiyoun)
+##  Open Source / Projects
+<div align="center">
+  <h3>GSSoC 2026</h3>
+  <img src="./contributor.png" alt="GSSoC 2026 Contributor" width="300" />
+  <img src="./open.png" alt="GSSoC Open Source Track" width="300" />
+</div>
 
 
+
+<br />
+
+- [**batiyoun**](https://github.com/kushkumarkashyap7280/batiyoun) - Open-source PWA (offline-first, native-like single platform app). Uses the `kush-e2e` package for end-to-end flows.
+- [**kush-e2e**](https://www.npmjs.com/package/kush-e2e) (NPM Package) ![npm downloads](https://img.shields.io/npm/dm/kush-e2e?style=flat-square&color=ff007f)
 
 ---
 
-*Last updated: April 2026*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="45" height="45" />
+  <br />
+  <i>Let's connect and build something amazing together!</i>
+  <br />
+  <br />
+  <a href="https://github.com/kushkumarkashyap7280">
+    <img src="https://komarev.com/ghpvc/?username=kushkumarkashyap7280&color=ff007f&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  </a>
+</div>
 
-## What I'm Working On
-
-- Building production-ready web applications with modern frameworks
-- Practicing data structures and algorithms daily
-- Creating educational content for aspiring developers
-- Contributing to open-source projects
-- Exploring new technologies and best practices
-
----
-
-## Education
-
-**Bachelor of Vocation in Software Development**  
-Ramanujan College, Delhi University  
-2024 - 2027
-
-
----
-
-### Frontend
-
-[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com) [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org)
-
-### Backend
-
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com) [![REST](https://img.shields.io/badge/-REST-4A5568?style=flat-square&logo=rest&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-
-### Databases
-
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-
-### Languages
-
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
-
-### Tools & Platforms
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com) [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com) [![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://socket.io) [![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white)](https://redis.io) [![Prisma](https://img.shields.io/badge/-Prisma-0EA5A4?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io) [![OAuth](https://img.shields.io/badge/-OAuth-4285F4?style=flat-square&logo=oauth&logoColor=white)](https://oauth.net) [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com) [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com)
-
-www.kushkumar.me
-
----
-
-
+<!-- Footer Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" width="100%"/>
