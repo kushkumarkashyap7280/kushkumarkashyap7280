@@ -48,6 +48,13 @@ I'm a software developer specializing in full-stack web development with the MER
   </a>
 </div>
 
+<br />
+
+### 🎬 Latest Videos
+<!-- YOUTUBE:START -->
+*(GitHub Actions will automatically inject your latest videos here within an hour)*
+<!-- YOUTUBE:END -->
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="35" height="35" /> LeetCode Stats
@@ -71,7 +78,7 @@ I'm a software developer specializing in full-stack web development with the MER
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kushkumarkashyap7280&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kushkumarkashyap7280&theme=radical&hide_border=true" alt="Kush Kumar GitHub Streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kushkumarkashyap7280&theme=radical&hide_border=true" alt="Kush Kumar GitHub Streak" height="170" />
 </p>
 
 ---
