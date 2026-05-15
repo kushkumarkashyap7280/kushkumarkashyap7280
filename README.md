@@ -33,8 +33,11 @@
 I'm a software developer specializing in full-stack web development with the MERN stack. Currently pursuing a Bachelor of Vocation in Software Development at Ramanujan College, Delhi University. I build scalable web applications, solve algorithmic problems daily, and create educational content about software development.
 
 ---
+<div align="center">
+  <img src="./sudoinitlogo.png" alt="Sudo Init Logo" width="180" style="border-radius: 50%;" />
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" alt="Television" width="35" height="35" /> YouTube Channel: [@sudoinitialize](https://www.youtube.com/@sudoinitialize)
+## YouTube Channel: [@sudoinitialize](https://www.youtube.com/@sudoinitialize)
 
 > **Initializing the development environment.**
 > 
@@ -52,7 +55,7 @@ I'm a software developer specializing in full-stack web development with the MER
 
 ### 🎬 Latest Videos
 <!-- YOUTUBE:START -->
-*(GitHub Actions will automatically inject your latest videos here within an hour)*
+
 <!-- YOUTUBE:END -->
 
 ---
